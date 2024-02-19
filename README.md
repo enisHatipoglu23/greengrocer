@@ -1,5 +1,5 @@
 # GREENGROCER
-The program calculates the price of vegetables you buy.
+The program calculates the price of vegetables you bought.
 
 ### Sample Output
 
